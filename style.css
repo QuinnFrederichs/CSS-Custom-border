@@ -1,0 +1,10 @@
+.block1{
+
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(white, white 40px, blue 50px, blue);
+    border: 16px double hsl(0, 100%, 75%);
+    border-image-source: url("img/rand.jpg");
+    border-image-slice: 40;
+}
+
